@@ -8,12 +8,14 @@
 - *python main.py* on cmd
 
 ### Dependencies
-- CMake
-- dlib
-- face_recognition
-- CV2
-- numpy
-- os
+| Library | Command |
+| --- | --- |
+| `CMake` | pip install cmake |
+| `dlib` | pip install dlib |
+| `face_recognition` | pip install face_recognition |
+| `CV2` | pip install opencv-python |
+| `numpy` | pip install numpy |
+| `os` | pip install os |
 
 ###### Note
 - To add new people to list, just drop a picture of them in the data folder. Make sure to rename the picture according to the attendies name.
