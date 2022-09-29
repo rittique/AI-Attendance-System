@@ -17,4 +17,5 @@
 
 ###### Note
 - To add new people to list, just drop a picture of them in the data folder. Make sure to rename the picture according to the attendies name.
-- If you have an external webcam you may need to change the **cap = cv2.VideoCapture(0)** ***0*** in this place, it maybe replaced with ***1/2/and so on***.
+- If you have an external webcam you may need to change the ***"0"***,
+ **cap = cv2.VideoCapture(0)**  in this place, it maybe replaced with ***1/2/and so on***.
